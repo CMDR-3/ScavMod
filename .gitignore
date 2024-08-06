@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+/Debug
+/CoreMod/Debug/CoreMod.tlog
+/CoreMod/x64/Debug
+/CoreMod/Debug
+/scavlib/Debug
+/scavlib/x64/Debug
+/ScavMod/Debug
+/ScavMod/x64/Debug
+/.vs
